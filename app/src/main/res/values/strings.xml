@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="Etiqueta_bienvenida">Welcome to my app!!</string>
+</resources>
